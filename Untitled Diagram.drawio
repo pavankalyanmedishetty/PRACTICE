@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T08:56:10.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" version="15.4.0" etag="LbiADZqsnbWUaR-mJWb8" type="github"><diagram id="dHXs6Mn-dG01VGTJsvsg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-09T09:33:37.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="8_auXXU2Xvt4wgHHAfj0" version="15.4.0" type="github">
+  <diagram id="dHXs6Mn-dG01VGTJsvsg" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-1" target="FEmWZvzdRz_9px_hDqrc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-2" target="FEmWZvzdRz_9px_hDqrc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Binary to Decimal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-3" target="FEmWZvzdRz_9px_hDqrc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Decimal to Roman&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-4" target="FEmWZvzdRz_9px_hDqrc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Decimal to Hexadecimal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-5" target="FEmWZvzdRz_9px_hDqrc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-5" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Decimal to Octal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-6" target="FEmWZvzdRz_9px_hDqrc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-6" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Decimal to Binary&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-8" target="FEmWZvzdRz_9px_hDqrc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-8" target="FEmWZvzdRz_9px_hDqrc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="630" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-14" value="" style="line;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="215" y="90" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-15" value="" style="line;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="535" y="90" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-21" target="FEmWZvzdRz_9px_hDqrc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-21" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Divide the given decimal number by “2”&amp;nbsp;&lt;br&gt;write the remainders from MSB to LSB&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="15" y="240" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-22" target="FEmWZvzdRz_9px_hDqrc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-22" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;Divide the number by 8 and write the remainders in the reverse order to get the equivalent octal number.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="175" y="240" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-23" target="FEmWZvzdRz_9px_hDqrc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-23" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Divide the decimal number by 16&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;and write the remainders in reverse order&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="335" y="240" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-24" target="FEmWZvzdRz_9px_hDqrc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;write the decimal numbers in expandable form near to its roundoff value&lt;br&gt;convert them to Roman numbers&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="495" y="240" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEmWZvzdRz_9px_hDqrc-25" target="FEmWZvzdRz_9px_hDqrc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-25" value="&lt;span style=&quot;color: rgb(17 , 17 , 17) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;multiply each digit with its place value 2 to the power of positional weights and add the products.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="655" y="240" width="90" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-31" value="Decimal number output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-32" value="Roman output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-33" value="Hexadecimal output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-34" value="&lt;font style=&quot;font-size: 13px&quot;&gt;octal number output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FEmWZvzdRz_9px_hDqrc-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;binary number&lt;br&gt;output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
